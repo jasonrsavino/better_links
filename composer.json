@@ -1,5 +1,5 @@
 {
-  "name": "drupal/better_links",
+  "name": "jasonrsavino/better_links",
   "description": "Allows you to configure class and target attributes for a link field.",
   "type": "drupal-module",
   "homepage": "https://github.com/jasonrsavino/better_links",
